@@ -1,6 +1,6 @@
 # Who Am I
 
-i am just some random guy you found on the internet mate xd. anyway im a *soon* to be college student studying Digital Media. everything else i hated back in high school except cooking (mostly because i get free food xd). i do a bit of art, mostly graffiti or manga sketches (yes im a weeb) you can find some of my work on my YT channel or my newly created instagram account
+i am just some random guy you found on the internet mate xd. anyway im a college student studying Digital Media. everything else i hated back in high school except cooking (mostly because i get free food xd). i do a bit of art, mostly graffiti or manga sketches (yes im a weeb) you can find some of my work on my YT channel or my newly created instagram account
 
 Languages:
 
