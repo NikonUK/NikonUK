@@ -16,4 +16,7 @@ i started learning JavaScript a few months ago after talking to one of my mates,
 anyway thats it. idfk what else to put here as i havnt had much coding experience apart from making some adb batch file for quest known as QuestToolBox that i worked on with a friend
 https://github.com/mitchv2020/QuestToolbox/releases
 
+oh also me and mitch make vrchat avatars because we do like a bit of money
+https://www.fiverr.com/mitchv2020/make-simple-vrchat-avatars
+
 eh thats it. cya later!
