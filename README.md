@@ -6,16 +6,17 @@ Languages:
 
         • Batch (know the most)
 
-        • JavaScript (eh getting there. started recently)
+        • JavaScript
         
         • Python (know a slight bit. enough to make basic stuff)
         
-        • C++ (started learning recently. hope to use this for Quest Beat Saber modding)
+        • C#
        
        
-i started learning JavaScript a few months ago after talking to one of my mates, also known as a beat saber modder named HenWill and he suggested me to use Khan Academy as i want to learn how to make beat saber mods but theres no free (easily accesable) C++ teaching tools and apparently JavaScript is close to C++ so im giving it a go. so henwill if this works i cant thank you enough mate xd.
+i started learning JavaScript a few months ago after talking to one of my mates, also known as former beat saber modder HenWill8 and he suggested me to use Khan Academy as i want to learn how to make beat saber mods but theres no free (easily accesable) C++ teaching tools and apparently JavaScript is close to C++ so im giving it a go. so henwill if this works i cant thank you enough mate xd.
+(edit, ended up getting pcvr and now learned C# instead)
 
-anyway thats it. idfk what else to put here as i havnt had much coding experience apart from making some adb batch file for quest known as QuestToolBox that i worked on with a friend
+anyway thats it. idk what else to put here as i havnt had much coding experience apart from making some adb batch file for quest known as QuestToolBox that i worked on with a friend
 https://github.com/mitchv2020/QuestToolbox/releases
 
 eh thats it. cya later!
